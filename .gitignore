@@ -31,7 +31,11 @@ google-services.json
 
 # Android Profiling
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.hprof
 =======
 *.hprof
 >>>>>>> 1978557 (first commit)
+=======
+*.hprof
+>>>>>>> b0b333f68dd3457aabdca37baed62305541c84aa

@@ -7,7 +7,6 @@
     tools:context=".DetailSuperheroActivity">
 
     <ImageView
-
         android:id="@+id/ivSuperhero"
         android:layout_width="match_parent"
         android:layout_height="540dp"
